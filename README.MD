@@ -30,7 +30,7 @@ Some highlight features:
 **Only bug reports from Debug builds will be accepted.**
 
 For installation issues, upload both boot image and install logs.<br>
-For Magisk issues, upload boot logcat or dmesg.<br>
+For Magisk issues, upload boot logcat and dmesg.<br>
 For Magisk app crashes, record and upload the logcat when the crash occurs.
 
 ## Translation Contributions
